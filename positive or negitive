@@ -1,0 +1,23 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+class Ideone
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		int number=50;
+		if(number>0)
+		{
+			System.out.print(number+" is a positive number");
+ 
+		}
+		else if(number<0)
+		{
+			System.out.print(number+"  is a negitive number");
+		}
+		else
+		{
+			System.out.print(number+" is either negitive or positive");
+		}
+	}
+}
