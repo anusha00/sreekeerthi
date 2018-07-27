@@ -9,11 +9,11 @@ class Greatest
 	{
 		int a=1,b=2,c=3;
 		if(a>b && a>c)
-		System.out.println("a");
+		System.out.println("1");
 		else if(b>a && b>c)
-		System.out.println("b");
+		System.out.println("2");
 		else
-		System.out.println("c");
+		System.out.println("3");
 		
 	}
 }
