@@ -6,9 +6,8 @@ import java.io.*;
 class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
-	
-		
-		for (int i=2; i <= 6; i++) 
+	{
+	for (int i=2; i <= 6; i++) 
 		{
 			if (i % 2!= 0) 
 			{
