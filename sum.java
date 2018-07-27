@@ -10,8 +10,8 @@ class Ideone
 	int num=2 , sum=0;
 	for(int i=1; i<=num ;i++)
 	{
-		//sum +=i;
-		sum=sum+i;
+		sum +=i;
+		//sum=sum+i;
 	}
 		System.out.print("sum = " + sum);
 	}
