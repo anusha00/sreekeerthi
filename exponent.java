@@ -12,7 +12,7 @@ class Ideone
 	    long result= 1;
 	    while(exponent !=0)
 	    {
-	    result *=base;
+	    result *= base;
 	    --exponent;
 	}
 	System.out.println(8);
