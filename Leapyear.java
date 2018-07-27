@@ -7,12 +7,12 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		int n=2018;
+		int n=2015;
 		if(n%4==0)
 		{
-		System.out.print("Yes");
+		System.out.print("no");
 		}
 		else
-		System.out.println("No");
+		System.out.println("yes");
 	}
 }
