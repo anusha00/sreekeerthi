@@ -10,7 +10,7 @@ class Ideone
 		int i;
 		for(i=1;i<=2;i++)
 		{
-			System.out.println("hello");
+			System.out.println("Hello");
 		}
  
  
