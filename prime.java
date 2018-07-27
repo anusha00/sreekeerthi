@@ -20,8 +20,8 @@ class Ideone
         }
 
         if (!flag)
-            System.out.println(num + " is a prime number.");
+            System.out.println(num + "prime");
         else
-            System.out.println(num + " is not a prime number.");
+            System.out.println(num + " no");
 	}
 }
