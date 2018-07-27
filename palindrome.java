@@ -7,7 +7,7 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		int n=131,reversedinteger=0,remainder,originalinteger;
+		int n=121,reversedinteger=0,remainder,originalinteger;
 		System.out.println("enter integer:");
 		originalinteger=n;
 		while(n!=0)
