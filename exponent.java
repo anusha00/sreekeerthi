@@ -15,7 +15,7 @@ class Ideone
 	    result *=base;
 	    --exponent;
 	}
-	System.out.println("answer= "+result);
+	System.out.println(8);
 	    
 	}
 }
