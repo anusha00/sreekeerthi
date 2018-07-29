@@ -7,7 +7,7 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		int low = 1, high = 10;
+		int low = 10, high = 30;
 
         while (low < high) 
         {
