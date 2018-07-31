@@ -4,7 +4,7 @@ import java.io.*;
 
 class Ideone
 {
-		static int arr[] = {-1 , -2 , -3 };
+		static int arr[] = {1 , 2 , 3 };
 	
 	static int largest()
 	{
