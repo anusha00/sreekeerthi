@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Ideone
+class min
 {
 		static int arr[] = {1 , 2 , 3 };
 	
