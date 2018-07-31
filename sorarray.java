@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
  
- class GFG {
+ class sorarray {
      
     
     public static int swap(int itself,
