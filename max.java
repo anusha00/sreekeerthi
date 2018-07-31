@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Ideone
+class Max
 {
 		static int arr[] = {1 , 2 , 3 };
 	
