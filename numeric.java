@@ -5,7 +5,7 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		String string = "2";
+		String string = "yes";
         boolean numeric = true;
 
         try {
