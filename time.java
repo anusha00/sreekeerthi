@@ -24,7 +24,7 @@ else if(min>60)
 	hr=min/60;
 	min1=min%60;
 }
-System.out.println("Output:\n");
+System.out.println(" ");
 System.out.println(hr+" "+min1);
 }
 		else
