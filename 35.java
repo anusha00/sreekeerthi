@@ -11,8 +11,12 @@ class Ideone
       int count=0;
       Scanner s=new Scanner(System.in);
       a=s.nextLine();
-     for(int i=0;i<a.length();i++){
-        if(a.charAt(i)>='0'&&a.charAt(i)<='9'){
+     for(int i=0;i<a.length();i++)
+     {
+        if(a.charAt(i)>='0'&&a.charAt(i)<='9')
+	{
              count++;
         }
      }
+	}
+}
