@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- class 37
+ class swap2
 {
 
 	public static void main(String[] args)
