@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- class Swap
+ class 37
 {
 
 	public static void main(String[] args)
