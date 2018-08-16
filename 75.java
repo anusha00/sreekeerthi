@@ -1,5 +1,5 @@
 import java.util.*;
-class Star
+class Starprogram
 {
     public static void main(String hj[])
     {
