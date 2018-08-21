@@ -22,7 +22,7 @@ class oddspace
 		}
 		for(int j=i-1;j>=0;j--)
 		{
-			System.out.print(arr[j]+" ");
+			System.out.print(" "+arr[j]);
 		}
 	}
 }
