@@ -4,7 +4,7 @@ class Set85 {
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
 		String s=in.nextLine();
-		s=s.toLowerCase();
+		s=s.toUpperCase();
 		String s1[]=s.split("");
 		String a="",b="";
 		for(int i=0;i<s1.length;i++){
