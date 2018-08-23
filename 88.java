@@ -27,5 +27,3 @@ class lcm
         System.out.println(lcm(x, y));
 	}
 }
-Not connected. Connecting in 6s…
-Try now
