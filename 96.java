@@ -1,5 +1,5 @@
 import java.util.Scanner;
- class ap
+ class Ideone
  {
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
@@ -10,3 +10,4 @@ import java.util.Scanner;
 		 System.out.println(n/2*ap);
 	}
 }
+
