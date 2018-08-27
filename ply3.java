@@ -19,6 +19,6 @@ class guvip3
 		a/=10;
 		
 		}
-		System.out.println(" "+reverse);
+		System.out.println(""+reverse);
 	}
 }
