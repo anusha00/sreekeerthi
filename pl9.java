@@ -3,7 +3,7 @@ import java.lang.*;
 import java.io.*;
 
 
-class Ideone
+class ply9
 {
 	public static void main (String[] args) 
 	{
