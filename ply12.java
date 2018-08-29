@@ -33,7 +33,7 @@ class ply12
 		}
 	            for(i=0;i<m;i++)
 	            {
-	            	System.out.print(arr[i]+" ");
+	            	System.out.print(" "+arr[i]);
 	            }
 		
 		
